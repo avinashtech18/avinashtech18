@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/name-banner.svg" alt="Avinash A" width="100%"/>
+<img src="./name-banner.svg" alt="Avinash A" width="100%"/>
 
 ![Views](https://hits.sh/github.com/avinashtech18.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=14b8a6&labelColor=0b1f2a)
 ![Followers](https://img.shields.io/github/followers/avinashtech18?label=Followers&style=for-the-badge&color=0f3d4c&labelColor=0b1f2a)
