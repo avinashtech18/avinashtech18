@@ -120,9 +120,7 @@ Image dataset prepared for a Smart India Hackathon model.
 ### 🐍 Contribution snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/avinashtech18/avinashtech18/snake.yml)
-
+<img src="https://raw.githubusercontent.com/avinashtech18/avinashtech18/output/github-contribution-grid-snake-dark.svg" width=100%>
 </div>
 
 ---
