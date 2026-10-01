@@ -2,11 +2,9 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1f2a,50:0f3d4c,100:14b8a6&height=230&section=header&text=Avinash%20A&fontSize=56&fontColor=e0f2fe&fontAlignY=38&animation=fadeIn&desc=Java%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descSize=18&descAlignY=60&descColor=5eead4)
+<img src="./assets/name-banner.svg" alt="Avinash A" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=700&height=50&lines=Third-year+CSE+student+%40+REC+Chennai;Strong+in+Java+%7C+Learning+by+building;Building+FitSense+AI;Solving+one+LeetCode+problem+at+a+time)](https://github.com/avinashtech18)
-
-![Profile Views](https://komarev.com/ghpvc/?username=avinashtech18&label=PROFILE%20VIEWS&color=14b8a6&style=for-the-badge)
+![Views](https://hits.sh/github.com/avinashtech18.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=14b8a6&labelColor=0b1f2a)
 ![Followers](https://img.shields.io/github/followers/avinashtech18?label=Followers&style=for-the-badge&color=0f3d4c&labelColor=0b1f2a)
 ![LeetCode](https://img.shields.io/badge/LeetCode-234%20solved-14b8a6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b1f2a)
 
@@ -119,7 +117,7 @@ Image dataset prepared for a Smart India Hackathon model. (EDIT: confirm)
 
 ### 📈 Contribution graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=avinashtech18&bg_color=0b1f2a&color=5eead4&line=14b8a6&point=38bdf8&area=true&area_color=14b8a6&hide_border=true)](https://github.com/avinashtech18)
+[![Contribution Graph](https://ghchart.rshah.org/14b8a6/avinashtech18)](https://github.com/avinashtech18)
 
 ### 🐍 Contribution snake
 
