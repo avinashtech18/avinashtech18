@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I'm a third-year Computer Science Engineering student at **Rajalakshmi Engineering College, Chennai**. Java is my strongest language, and I like turning ideas into working web apps and AI-powered products. (EDIT: replace with your own words from the about-me questions)
+I'm a third-year Computer Science Engineering student at **Rajalakshmi Engineering College, Chennai**. Java is my strongest language, and I like turning ideas into working web apps and AI-powered products. 
 
 - ☕ Core strength: **Java** and **Data Structures & Algorithms**
 - 🌐 Full-stack web with **Node.js** and **Spring Boot**
