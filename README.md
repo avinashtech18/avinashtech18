@@ -26,7 +26,7 @@ I'm a third-year Computer Science Engineering student at **Rajalakshmi Engineeri
 
 - 🔨 Building **FitSense AI**, an AI platform that recommends the right clothing size
 - 🧠 Levelling up DSA and problem solving on LeetCode
-- 🚀 Looking for SDE internship and placement opportunities (EDIT: keep or remove)
+- 🚀 Looking for SDE internship and placement opportunities 
 
 ---
 
@@ -64,15 +64,13 @@ I'm a third-year Computer Science Engineering student at **Rajalakshmi Engineeri
 ### 👗 [FitSense AI](https://github.com/avinashtech18/FitSense-AI)
 An AI-powered, personalised clothing size recommendation platform.
 
-**Built with:** (EDIT: your actual stack)
-
 **Focus:** AI · Fashion tech · Fit prediction
 
 </td>
     <td width="50%" valign="top">
 
 ### 🎵 [MusicPlayer](https://github.com/avinashtech18/MusicPlayer)
-A music player application built in Python. (EDIT: add features)
+A music player application built in Python. 
 
 **Built with:** `Python`
 
@@ -84,7 +82,7 @@ A music player application built in Python. (EDIT: add features)
     <td width="50%" valign="top">
 
 ### 🧪 [dt_project](https://github.com/avinashtech18/dt_project)
-(EDIT: one-line description)
+
 
 **Built with:** `JavaScript`
 
@@ -92,7 +90,7 @@ A music player application built in Python. (EDIT: add features)
     <td width="50%" valign="top">
 
 ### 🖼️ [SIH-images-for-training](https://github.com/avinashtech18/SIH-images-for-training)
-Image dataset prepared for a Smart India Hackathon model. (EDIT: confirm)
+Image dataset prepared for a Smart India Hackathon model. 
 
 **Focus:** Dataset preparation · Computer vision
 
@@ -133,7 +131,7 @@ Image dataset prepared for a Smart India Hackathon model. (EDIT: confirm)
 
 ### `Learn → Build → Break → Fix → Repeat`
 
-> "Consistency beats intensity. One commit a day adds up." (EDIT: your own line)
+> "Consistency beats intensity. One commit a day adds up." 
 
 ---
 
