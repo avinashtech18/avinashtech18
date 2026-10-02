@@ -109,7 +109,7 @@ Image dataset prepared for a Smart India Hackathon model.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=avinashtech18&hide_border=true&background=0b1f2a&ring=14b8a6&fire=5eead4&currStreakNum=e0f2fe&currStreakLabel=5eead4&sideNums=e0f2fe&sideLabels=38bdf8&dates=7dd3c8)](https://github.com/avinashtech18)
 
-[![LeetCode Stats](https://leetcard.jacoder.me/avinashtech07?theme=dark&font=Fira%20Code&border=0)](https://leetcode.com/u/avinashtech07/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/avinashtech07?theme=dark&font=Fira%20Code&border=0)](https://leetcode.com/u/avinashtech07/)
 
 </div>
 
