@@ -6,7 +6,7 @@
 
 ![Views](https://hits.sh/github.com/avinashtech18.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=14b8a6&labelColor=0b1f2a)
 ![Followers](https://img.shields.io/github/followers/avinashtech18?label=Followers&style=for-the-badge&color=0f3d4c&labelColor=0b1f2a)
-![LeetCode](https://img.shields.io/badge/LeetCode-234%20solved-14b8a6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b1f2a)
+![LeetCode](https://img.shields.io/badge/LeetCode-262%20solved-14b8a6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b1f2a)
 
 </div>
 
